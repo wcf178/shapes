@@ -1,9 +1,0 @@
-public static void main(String[] args) {
-        Picture picture = new Picture();
-//        picture.setBlackAndWhite();
-        c1.moveDown();     //蓝色圆高度下降
-        c1.moveDown();       //蓝色圆高度再次下降
-        c1.makeInvisible();   //蓝色圆不见
-        c1.makeInvisible();  
-        picture.draw();;
-    }
