@@ -1,0 +1,7 @@
+public static void main(String[] args) {
+        Picture picture = new Picture();
+//        picture.setBlackAndWhite();
+        Circle c1 = new Circle ();
+        Square s1 = new Square();
+        picture.draw();;
+    }
