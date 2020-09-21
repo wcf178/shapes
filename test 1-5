@@ -1,6 +1,0 @@
-public static void main(String[] args) {
-        Picture picture = new Picture();
-//        picture.setBlackAndWhite();
-        c1.changeColor("blackred");
-        picture.draw();;
-    }
