@@ -180,5 +180,6 @@ public class Circle
             Canvas canvas = Canvas.getCanvas();
             canvas.erase(this);
         }
+        return;
     }
 }
